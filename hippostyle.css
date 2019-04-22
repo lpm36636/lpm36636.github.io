@@ -1,24 +1,18 @@
-.hippo 
-{ background-color: lightgray ;
+.hippo { background-color: lightgray;
 }
-TD 
-{
-background-color: #BEBEBE; color:black
+TD {
+background-color: #BEBEBE; color:black;
 }
-TH
-{
-background-color: gray ; color:white
+TH {
+background-color: gray ; color:white;
 }
-div.figure 
-{
+div.figure {
 float: right;
 width: 50%;
 text-align: center;
 font-style: italic;
 font-size: smaller;
 }
-
-ol.asterick
-{
+ol.asterick {
 list-style:none;
 }
